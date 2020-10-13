@@ -1,0 +1,1 @@
+rm /var/www/html/cam/webcamvid/uploads/x/*.webm && cd /var/www/html/cam/webcamvid/uploads/ && cp `ls -SFt /var/www/html/cam/webcamvid/uploads/ | grep -v / | head -1` /var/www/html/cam/webcamvid/uploads/x/ && mv /var/www/html/cam/webcamvid/uploads/x/*.webm /var/www/html/cam/webcamvid/uploads/x/video.webm

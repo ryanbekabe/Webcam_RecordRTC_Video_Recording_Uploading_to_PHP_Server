@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "main"]
+[branch "main"]
+[remote "origin"]
+	url = https://github.com/ryanbekabe/Webcam_RecordRTC_Video_Recording_Uploading_to_PHP_Server.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
