@@ -1,0 +1,46 @@
+HTTP headers:
+GET
+/
+HTTP/1.1
+HTTPS = on
+SSL_TLS_SNI = computervision.hanyajasa.com
+HTTP_HOST = computervision.hanyajasa.com
+HTTP_CONNECTION = keep-alive
+HTTP_CACHE_CONTROL = max-age=0
+HTTP_UPGRADE_INSECURE_REQUESTS = 1
+HTTP_USER_AGENT = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+HTTP_ACCEPT = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+HTTP_SEC_FETCH_SITE = none
+HTTP_SEC_FETCH_MODE = navigate
+HTTP_SEC_FETCH_USER = ?1
+HTTP_SEC_FETCH_DEST = document
+HTTP_ACCEPT_ENCODING = gzip, deflate, br
+HTTP_ACCEPT_LANGUAGE = en-US,en;q=0.9,ms;q=0.8
+HTTP_COOKIE = _ga=GA1.2.382110682.1602138870; __dtsu=10401602138873CED47DAA905C04B150; _gid=GA1.2.270675625.1602603949
+PATH = /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+SERVER_SIGNATURE = <address>Apache/2.4.29 (Ubuntu) Server at computervision.hanyajasa.com Port 443</address>
+
+SERVER_SOFTWARE = Apache/2.4.29 (Ubuntu)
+SERVER_NAME = computervision.hanyajasa.com
+SERVER_ADDR = 172.19.57.214
+SERVER_PORT = 443
+REMOTE_ADDR = 36.75.66.228
+DOCUMENT_ROOT = /var/www/html/cam/webcamvid
+REQUEST_SCHEME = https
+CONTEXT_PREFIX = 
+CONTEXT_DOCUMENT_ROOT = /var/www/html/cam/webcamvid
+SERVER_ADMIN = bekabeipa@gmail.com
+SCRIPT_FILENAME = /var/www/html/cam/webcamvid/index.php
+REMOTE_PORT = 17644
+GATEWAY_INTERFACE = CGI/1.1
+SERVER_PROTOCOL = HTTP/1.1
+REQUEST_METHOD = GET
+QUERY_STRING = 
+REQUEST_URI = /
+SCRIPT_NAME = /index.php
+PHP_SELF = /index.php
+REQUEST_TIME_FLOAT = 1602608286.98
+REQUEST_TIME = 1602608286
+
+Request body:
+

@@ -11,7 +11,7 @@ exec("/bin/bash -c '/var/www/html/cam/webcamvid/shren.sh'");
 //Default PHP 7
 $servername = "localhost:3306";
 $username = "root";
-$password = "11kmzwA8awaa11_!";
+$password = "Bismillah1234_!";
 $dbname = "hanyajasa";
 date_default_timezone_set('Asia/Jakarta');
 $waktu=date('Y-m-d H:i:s'); 
@@ -910,6 +910,6 @@ https://github.com/muaz-khan/WebRTC-Experiment/issues/48
         </script>
 </body>
 <footer>
-Refresh sekali halaman ini, lalu hasil di dapat dilihat di : <a href=http://51.79.141.136/>http://51.79.141.136/</a>
+Refresh sekali halaman ini, lalu hasil di dapat dilihat di : <a href=https://xcomputervision.hanyajasa.com>https://xcomputervision.hanyajasa.com</a>
 </footer>
 </html>
