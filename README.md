@@ -24,6 +24,6 @@ Flask-1.0.2-py2.py3-none-any.whl
 
 ----
 
-https://xcomputervision.hanyajasa.com | https://xcomputervision.hanyajasa.com
+https://computervision.hanyajasa.com | https://xcomputervision.hanyajasa.com
 
 http://hanyajasa.com | bekabeipa@gmail.com | https://paypal.me/RHidayatSamosir
