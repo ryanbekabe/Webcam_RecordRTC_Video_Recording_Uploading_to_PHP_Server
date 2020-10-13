@@ -11,7 +11,7 @@ exec("/bin/bash -c '/var/www/html/cam/webcamvid/shren.sh'");
 //Default PHP 7
 $servername = "localhost:3306";
 $username = "root";
-$password = "Bismillah1234_!";
+$password = "";
 $dbname = "hanyajasa";
 date_default_timezone_set('Asia/Jakarta');
 $waktu=date('Y-m-d H:i:s'); 
